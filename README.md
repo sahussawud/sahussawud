@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Microservices, Scalabilty Framework and State-of-art language.
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/sahussawud-khunruksa-221a18150/)
+- 💬 Ask me about: Coffee & Beer
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **sahussawud/sahussawud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
