@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Microservices, Scalabilty Framework and State-of-art language.
+- 🌱 I’m interested in State-of-art Technology to solving problem to everyone.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/sahussawud/)
 - 💬 Ask me about: Coffee & Beer
 - 🤔 My Resume: [sahussawud.com](https://sahussawud.com)
