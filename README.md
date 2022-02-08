@@ -1,9 +1,9 @@
 ### Hi there 👋
-
-- 🌱 I’m interested in State-of-art Technology to solving problem to everyone.
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/sahussawud/)
-- 💬 Ask me about: Coffee & Beer
-- 🤔 My Resume: [sahussawud.com](https://sahussawud.com)
+- 🔭 I’m currently studying in Bsc & Msc Information Technology. 
+- 🌱 I’m interested in Natural Language Processing, ML, Web Technology, Cloud Technology.
+- 💬 I’m blogger at  [Medium](https://sahussawud.medium.com/)
+- 🤔 My website : [sahussawud.com](https://sahussawud.com)
+- 📫 How to reach me : [linkedin](https://www.linkedin.com/in/sahussawud/)
 
 ## Where to find me
 <p>  <a href="https://www.linkedin.com/in/sahussawud-khunruksa-221a18150/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://poundsahussawud.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
